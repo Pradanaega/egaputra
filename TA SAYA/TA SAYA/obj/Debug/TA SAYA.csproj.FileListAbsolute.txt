@@ -1,0 +1,9 @@
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\bin\Debug\TA SAYA.exe.config
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\bin\Debug\TA SAYA.exe
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\bin\Debug\TA SAYA.pdb
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA SAYA.csprojResolveAssemblyReference.cache
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA_SAYA.Form1.resources
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA_SAYA.Properties.Resources.resources
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA SAYA.csproj.GenerateResource.Cache
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA SAYA.exe
+c:\users\pradana ega putra\documents\visual studio 2015\Projects\TA SAYA\TA SAYA\obj\Debug\TA SAYA.pdb
